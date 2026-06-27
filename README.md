@@ -19,4 +19,4 @@ It uses `npm`
 - Run `npm install` on project root.
 - Run `npm run dev` to start development server
 
-Access at http://localhost:5174 (default)
+Access at http://localhost:5173 (default)
